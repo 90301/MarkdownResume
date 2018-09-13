@@ -71,6 +71,6 @@ Artificial Intelligence at it's core is about creating a system that creates sys
 <img src="https://raw.githubusercontent.com/90301/PersonalWeb/master/images/RoboArm.png" >
 Robotics brings automation to the physical world. A dark factory is a manufacturing facility that has no human workers in it, allowing it to operate considerably more efficently. You don't have to run air conditioning / lights allowing dark factories to be some of the most efficent buildings. Not only can robotics vastly improve profitibility through lower defect rates and 24/7 production, but many processes that were not feasable with human labor become attainable. There's almost no limit on expansion potential. For example: greater sample sizes for processes like drug testing. The combination of robotics and AI allow for discovery at paces unrivaled before.
 
-## Microbiology / Chemestry
+## Microbiology / Chemistry
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/4QYZ.png" withd="750">
 CRISPR (https://en.wikipedia.org/wiki/CRISPR) is a genetic engineering technique that allows us to alter DNA in a cost effecitive way. When combined with AI for prototyping and Robotics for large scale testing, it may be possible to create new drugs / organisms that sevrve particular purposes.
