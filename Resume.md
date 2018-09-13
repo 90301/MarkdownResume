@@ -5,7 +5,7 @@
 # Work History
 ## Blue Chip AI - President
 ### 2017-(Current)
-Coordinates and oversees all development projects directs the business team in day-to-day operations, and facilitates communication between team members.
+Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members.
 
 ## Sagitec Solutions - Software Engineer
 ### 2017-2018
