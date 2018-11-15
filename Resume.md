@@ -3,7 +3,7 @@
 ## Josh.Benton.CE@gmail.com
 
 # Work History
-## Blue Chip AI - President
+## [Blue Chip AI - President](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-(Current)
 Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. 
 
@@ -34,14 +34,14 @@ Engineering internship designing, building, and implementing software solutions 
 
 ## Engineering Contractor
 ### 2012-2016
-Desigining and implementing custom engineering solutions.
+Designing and implementing custom engineering solutions.
 
 Projects include:
 * Custom Xeon Phi Cooling Solutions
 * Census Data Analytics
 * Data Mining
-* Custom CRM software
-* Automation of 3D printing filament manufacturing
+* Custom CRM Software
+* Automation of 3D Printing Filament Manufacturing
 
 
 # Education
@@ -96,3 +96,4 @@ For more information about specific experience, feel free to [reach out](https:/
 |    Haxe   Flixel     |    SAS           |                                |                                          |                                         |                                   |
 |    OpenCL            |                  |                                |                                          |                                         |                                   |
 |    [J2EE / JEE](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md)        |                  |                                |                                          |                                         |                                   |
+|    GIS | | | |
