@@ -24,7 +24,7 @@ Java **Stream processing** performance helps ensure highly parallel runtimes exe
 
 # Related Languages
 
-### C#
+### [C#](https://github.com/90301/MarkdownResume/blob/master/Technologies/C_Sharp.md)
 C# shares nearly the exact same design / development paradigms. Stream processing has the same performance and functionality, just with different method names.
 
 To demonstrate that, here's some example code calculating the total sales made in a given year between the two languages.
