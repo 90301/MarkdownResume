@@ -76,10 +76,9 @@ Robotics brings automation to the physical world. A dark factory is a manufactur
 CRISPR (https://en.wikipedia.org/wiki/CRISPR) is a genetic engineering technique that allows us to alter DNA in a cost effecitive way. When combined with AI for prototyping and Robotics for large scale testing, it may be possible to create new drugs / organisms that sevrve particular purposes.
 
 # Technologies Used
-This section contains a table with the various technologies I have experience with.
- 
-If a Link is available, the section contains additional information, feel free to read more
-For more information about specific experience, feel free to reach out and I can give you a detailed breakdown.
+**If a Link is available, the section contains additional information.**
+
+For more information about specific experience, feel free to [reach out](https://github.com/90301/MarkdownResume/blob/master/Resume.md#josh-benton) and I can give you a detailed breakdown.
 
 
 |    Programming       |    Scripting     |    Databases                   |    Hardware Experience                   |    Operating Systems and Hypervisors    |    Other                          |
