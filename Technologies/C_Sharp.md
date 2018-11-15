@@ -2,7 +2,7 @@
 Started : 2008
 
 # Projects Utilizing C#
-C# using Visual Studio is probably the best language / development environment for **Rapid Development.**
+C# using Visual Studio is probably the best environment for **Rapid Development.**
 
 ## Programmatic Program Generation / Duplication
 Sometimes known as 4GL or forth generation programming languages, C# is a powerful tool for generation of repetitive or performance dependant C# code.
@@ -43,6 +43,14 @@ GetGroup1QDuplicateEmail = "GetGroup1QDuplicateEmail"
 GetGroup2QBadAddress = "GetGroup2QBadAddress"
 GetGroup3QContributionsCheck = "GetGroup3QContributionsCheck"
 ``` 
+
+## Electronic Data Exchange Utilities (EDI-Utilities)
+Mapping client information to a near dark factory enviorment can be a difficult task with electronic orders coming in a number of formats each proprietary to an individual vendor.
+
+EDI Mapping takes their data and works to standardize it. That's great when you know the format, but what happens when you don't know the format? Manually sifting through Text / Binary / CSV / XML / Flat Files is for suckers, and you are not a sucker.
+
+Introducing the EDI Utilities Application. [Open Source](https://github.com/90301/EDI-Utils) and Custom Developed for DAK Americas, this utility can take a known conversion and make mappings, or unknown data and attempt to determine what data is held where.
+
 
 # Related Languages
 
