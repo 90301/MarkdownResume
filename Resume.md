@@ -83,7 +83,7 @@ This section contains a table with the various technologies I have experiance wi
 |    Java              |    R             |    MySQL                       |    NI DAS   (Data Acquisition System)    |    Debian and   Ubuntu based Linux      |    Rapid   Prototyping            |
 |    .Net   ASP.Net    |    Powershell    |    Microsoft SQL               |    National   Instruments hardware       |    Windows   Server                     |    CAD                            |
 |    Scala             |    Python        |    Perst                       |    NI   CompactRIO                       |    ROS                                  |    Multisim                       |
-|    **C#**                |    BASH          |    Sql   Reporting Services    |    Embedded   Systems                |    Hyper-V                              |    SPICE                          |
+|    C#                |    BASH          |    Sql   Reporting Services    |    Embedded   Systems                |    Hyper-V                              |    SPICE                          |
 |    C++               |    AS3           |    SQL lite                    |    RFID   tagging                        |    VMware                               |    Electronic Data Interchange    |
 |    Labview           |    Javascript    |    Oracle                      |    Large Scale Airflow Solutions         |    OpenStack                            |    GIT                            |
 |    MVC               |    jQuery        |                                |                                          |    Xen                                  |    Autodesk   Inventor            |
