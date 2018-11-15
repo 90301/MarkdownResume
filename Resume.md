@@ -73,7 +73,8 @@ Robotics brings automation to the physical world. A dark factory is a manufactur
 
 ## Microbiology / Chemistry
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/4QYZ.png" withd="750">
-CRISPR (https://en.wikipedia.org/wiki/CRISPR) is a genetic engineering technique that allows us to alter DNA in a cost effecitive way. When combined with AI for prototyping and Robotics for large scale testing, it may be possible to create new drugs / organisms that sevrve particular purposes.
+
+[CRISPR](https://en.wikipedia.org/wiki/CRISPR) is a genetic engineering technique that allows us to alter DNA in a cost effective way. When combined with AI for prototyping and Robotics for large scale testing, it may be possible to create new drugs / organisms that sevrve particular purposes.
 
 # Technologies Used
 **If a Link is available, the section contains additional information.**
