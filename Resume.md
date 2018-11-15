@@ -14,7 +14,7 @@ C# .Net / ASP.net / MVC development for unemployment insurance software.
 ## USC Columbia - Teaching Assistant/Researcher
 ### 2014-2017
 #### Labs:
-* Autonomus Field Robotics Lab - Multi-Robot Systems Research
+* Autonomous Field Robotics Lab - Multi-Robot Systems Research
 * Neurotransmitter Lab - In Vivo Neurotransmitter Measurements
 
 #### Classes:
