@@ -4,17 +4,16 @@ Started : 2009
 # Projects Utilizing Java / Java EE
 
 ## [Blue Chip AI](https://bluechipai.net/)
-Blue Chip AI uses java for all internal projects to take advantage of Java's un-paralleled Stream Performance, 
-often times outperforming all low level languages thanks to the advancements in Just In Time (JiT) compiling.
-The ease of *Vaadin* integration for all user interfaces allows us to focus more on the Ariticficial Intelligence, and less on building a UI.
+Blue Chip AI uses Java for all internal projects to take advantage of Java's Parallel Stream Performance, 
+often times outperforming all low level language implementations thanks to the advancements in Just In Time (JiT) compiling.
 
-## Style Connect 
+The ease of *Vaadin* integration for all user interfaces allows us to focus more on the Artificial Intelligence, while not compromising on a user interface (UI).
+
+## [Style Connect]((https://90301.github.io/StyleConnectWebsite/))
 Style Connect is a CRM Software for Salons, utilizing Social Media Data Mining Techniques combined with AI for Analysis, 
 you can know your clients **better then they know themselves.** 
 
 Style connect uses Java EE to power the Vaadin interface that runs the application. 
-
-[For more information check out the project website](https://90301.github.io/StyleConnectWebsite/)
 
 ## Multi-Agent / Economic Simulations
 Understanding how economies function at both a macro and micro level usually requires building a model, 
@@ -23,6 +22,11 @@ These insights are particularly helpful when attempting to understand if a parti
 
 Java **Stream processing** performance helps ensure highly parallel runtimes execute optimally. Java allows easy deployment to
 **super computers.** 
+
+Some of these simulations have a graphical component to them (though most do not).
+
+<img src="https://raw.githubusercontent.com/90301/Boats/UI1/Command%20Links%20whirlpool%20patteren.png">
+
 
 # Related Languages
 
