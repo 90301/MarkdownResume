@@ -76,20 +76,24 @@ Robotics brings automation to the physical world. A dark factory is a manufactur
 CRISPR (https://en.wikipedia.org/wiki/CRISPR) is a genetic engineering technique that allows us to alter DNA in a cost effecitive way. When combined with AI for prototyping and Robotics for large scale testing, it may be possible to create new drugs / organisms that sevrve particular purposes.
 
 # Technologies Used
-This section contains a table with the various technologies I have experiance with. For more information about specific experiance, feel free to reach out and I can give you a detailed breakdown.
+This section contains a table with the various technologies I have experience with.
+ 
+If a Link is avaliable, the section contains additional information, feel free to read more
+For more information about specific experience, feel free to reach out and I can give you a detailed breakdown.
+
 
 |    Programming       |    Scripting     |    Databases                   |    Hardware Experience                   |    Operating Systems and Hypervisors    |    Other                          |
 |----------------------|------------------|--------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------|
-|    Java              |    R             |    MySQL                       |    NI DAS   (Data Acquisition System)    |    Debian and   Ubuntu based Linux      |    Rapid   Prototyping            |
+|    [Java](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md) |    R             |    MySQL                       |    NI DAS   (Data Acquisition System)    |    Debian and   Ubuntu based Linux      |    Rapid   Prototyping            |
 |    .Net   ASP.Net    |    Powershell    |    Microsoft SQL               |    National   Instruments hardware       |    Windows   Server                     |    CAD                            |
 |    Scala             |    Python        |    Perst                       |    NI   CompactRIO                       |    ROS                                  |    Multisim                       |
 |    C#                |    BASH          |    Sql   Reporting Services    |    Embedded   Systems                |    Hyper-V                              |    SPICE                          |
 |    C++               |    AS3           |    SQL lite                    |    RFID   tagging                        |    VMware                               |    Electronic Data Interchange    |
-|    Labview           |    Javascript    |    Oracle                      |    Large Scale Airflow Solutions         |    OpenStack                            |    GIT                            |
+|    Labview           |    Javascript    |    Oracle                      |    [Large Scale Airflow Solutions](http://bluechipai.net/datacenters.html)|    OpenStack                            |    GIT                            |
 |    MVC               |    jQuery        |                                |                                          |    Xen                                  |    Autodesk   Inventor            |
 |    JPro              |    Angular JS    |                                |                                          |                                         |    TFS                            |
 |    Vaadin            |    SASS          |                                |                                          |                                         |                                   |
 |    Haxe              |    MatLab        |                                |                                          |                                         |                                   |
 |    Haxe   Flixel     |    SAS           |                                |                                          |                                         |                                   |
 |    OpenCL            |                  |                                |                                          |                                         |                                   |
-|    J2EE / JEE        |                  |                                |                                          |                                         |                                   |
+|    [J2EE / JEE](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md)        |                  |                                |                                          |                                         |                                   |
