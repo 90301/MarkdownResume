@@ -78,7 +78,7 @@ CRISPR (https://en.wikipedia.org/wiki/CRISPR) is a genetic engineering technique
 # Technologies Used
 This section contains a table with the various technologies I have experience with.
  
-If a Link is avaliable, the section contains additional information, feel free to read more
+If a Link is available, the section contains additional information, feel free to read more
 For more information about specific experience, feel free to reach out and I can give you a detailed breakdown.
 
 
