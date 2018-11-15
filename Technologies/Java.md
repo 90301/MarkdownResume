@@ -16,11 +16,11 @@ Style connect uses Java EE to power the Vaadin interface that runs the applicati
 
 ### Multi-Agent / Economic Simulations
 Understanding how economies function at both a macro and micro level usually requires building a model, 
-With a **Multi Agent** simulation, you are able to simulate at the individual level, but see effects up to the macro level. 
+With a **Multi-Agent** simulation, you are able to simulate at the individual level, but see effects up to the macro level. 
 These insights are particularly helpful when attempting to understand if a particular theory works correctly.
 
-Java Stream processing performance helps ensure highly parallel runtimes execute optimally. Java allows easy deployment to
-super computers. 
+Java **Stream processing** performance helps ensure highly parallel runtimes execute optimally. Java allows easy deployment to
+**super computers.** 
 
 
 # Related Languages
