@@ -1,7 +1,27 @@
 # Java / JEE (Java Enterprise Edition)
-Start : 2009
+Started : 2009
 
-# Projects Utilizing Java
+# Projects Utilizing Java / Java EE
+
+### [Blue Chip AI](https://bluechipai.net/)
+Blue Chip AI uses java for all internal projects to take advantage of Java's un-paralleled Stream Performance, 
+often times outperforming all low level languages thanks to the advancements in Just In Time (JiT) compiling.
+The ease of *Vaadin* integration for all user interfaces allows us to focus more on the Ariticficial Intelligence, and less on building a UI.
+
+### Style Connect 
+Style Connect is a CRM Software for Salons, utilizing Social Media Data Mining Techniques combined with AI for Analysis, 
+you can know your clients **better then they know themselves.** 
+
+Style connect uses Java EE to power the Vaadin interface that runs the application. 
+
+### Multi-Agent / Economic Simulations
+Understanding how economies function at both a macro and micro level usually requires building a model, 
+With a **Multi Agent** simulation, you are able to simulate at the individual level, but see effects up to the macro level. 
+These insights are particularly helpful when attempting to understand if a particular theory works correctly.
+
+Java Stream processing performance helps ensure highly parallel runtimes execute optimally. Java allows easy deployment to
+super computers. 
+
 
 # Related Languages
 
