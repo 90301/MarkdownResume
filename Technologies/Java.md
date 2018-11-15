@@ -50,11 +50,11 @@ Double totalSales = list.stream()
 Both of these examples do the exact same thing, the two languages even share the same syntax. 
 
 # Technology
-| Servers | Frameworks |
-|---------|------------|
-| Tomcat | Vaadin |
-| Glassfish | Spring |
-| JBoss | |
+| Servers | Frameworks | Management | Continuous Integration | 
+|---------|------------|-------|----------------------------|
+| Tomcat | Vaadin | Apache Maven | Jenkins |
+| Glassfish | Spring | Apache Ivy  | |
+| JBoss | | Apache Ant | |
 
 ## Don't see your server here?
 In general, Java EE works identically across servers. Simply deploy the .WAR file to the server. 
