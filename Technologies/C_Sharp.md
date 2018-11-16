@@ -54,6 +54,12 @@ Introducing the EDI Utilities Application. [Open Source](https://github.com/9030
 
 <img src="https://user-images.githubusercontent.com/6025683/48597051-c2724600-e929-11e8-9b20-f931c6a4815a.png">
 
+## Crescent CRM
+A custom CRM software for managing clients. This ended up as the MVP(Minimum Viable Product) for [Style Connect.](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md#style-connect) Utilizing a Perst, NoSQL Database, the Crescent CRM Software is plug and play.
+Designed to "Just Work" it features powerful sorting, custom statuses and locations with proximity awareness which allow stylists to manage clients across regions.
+
+<Img src="https://user-images.githubusercontent.com/6025683/48597354-58f33700-e92b-11e8-89c3-23a1740a881c.png">
+
 # Related Languages
 
 ### [Java](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md)
@@ -88,6 +94,3 @@ Both of these examples do the exact same thing, the two languages even share the
 | | APS.NET | |
 | | .Net | |
 | | Web Forms | |
-
-## Why IIS?
-It's the default, and works well for most organizations. Most Microsoft centric organizations prefer to stay in the Microsoft ecosystem. 
