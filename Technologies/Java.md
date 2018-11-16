@@ -10,10 +10,12 @@ often times outperforming all low level language implementations thanks to the a
 The ease of *Vaadin* integration for all user interfaces allows us to focus more on the Artificial Intelligence, while not compromising on a user interface (UI).
 
 ## [Style Connect](https://90301.github.io/StyleConnectWebsite/)
-Style Connect is a CRM Software for Salons, utilizing Social Media Data Mining Techniques combined with AI for Analysis, 
+Style Connect is an [Open Source](https://github.com/90301/Crescent-CRM-V/tree/Release/Crescent-CRM-Vaadin-Maven) CRM Software for Salons, utilizing Social Media Data Mining Techniques combined with AI for Analysis, 
 you can know your clients **better then they know themselves.** 
 
 Style connect uses Java EE to power the Vaadin interface that runs the application. 
+
+<img src="https://user-images.githubusercontent.com/6025683/48597927-580fd480-e92e-11e8-99f1-f6034968929f.png">
 
 ## Multi-Agent / Economic Simulations
 Understanding how economies function at both a macro and micro level usually requires building a model, 

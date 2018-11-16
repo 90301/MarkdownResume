@@ -97,6 +97,6 @@ For more information about specific experience, feel free to [reach out](https:/
 |    [Vaadin](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md)            |    SASS          |                                |                                          |                                         |                                   |
 |    Haxe              |    MatLab        |                                |                                          |                                         |                                   |
 |    Haxe   Flixel     |    SAS           |                                |                                          |                                         |                                   |
-|    OpenCL            |                  |                                |                                          |                                         |                                   |
+|    OpenCL            |    Node.JS  |                                |                                          |                                         |                                   |
 |    [J2EE / JEE](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md)        |                  |                                |                                          |                                         |                                   |
 |    GIS | | | |
