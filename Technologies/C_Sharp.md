@@ -43,14 +43,16 @@ GetGroup1QDuplicateEmail = "GetGroup1QDuplicateEmail"
 GetGroup2QBadAddress = "GetGroup2QBadAddress"
 GetGroup3QContributionsCheck = "GetGroup3QContributionsCheck"
 ``` 
+<img src="https://user-images.githubusercontent.com/6025683/48597100-fbaab600-e929-11e8-94ae-36148a5b90b3.png">
 
 ## Electronic Data Exchange Utilities (EDI-Utilities)
 Mapping client information to a near dark factory environment can be a difficult task with electronic orders coming in a number of formats each proprietary to an individual vendor.
 
 EDI Mapping takes vendor data and works to standardize it. That's great when you know the format, but what happens when you don't know the format? Manually sifting through Text / Binary / CSV / XML / Flat Files is for suckers, and you are not a sucker.
 
-Introducing the EDI Utilities Application. [Open Source](https://github.com/90301/EDI-Utils) and Custom Developed for DAK Americas, this utility can take a known conversion and make mappings, or unknown data and attempt to determine what data is held where.
+Introducing the EDI Utilities Application. [Open Source](https://github.com/90301/EDI-Utils) and custom developed for DAK Americas, this utility can take a known conversion and make mappings, or unknown data and attempt to determine what data is held where.
 
+<img src="https://user-images.githubusercontent.com/6025683/48597051-c2724600-e929-11e8-9b20-f931c6a4815a.png">
 
 # Related Languages
 
