@@ -2,6 +2,8 @@
 ## 803-524-3937
 ## Josh.Benton.CE@gmail.com
 
+**If a Link is available, the section contains additional information.**
+
 # Work History
 ## [Blue Chip AI - President](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-(Current)
