@@ -41,6 +41,8 @@ Projects include:
 * Census Data Analytics
 * Data Mining
 * Custom CRM Software
+    * [Style Connect](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md#style-connect)
+    * [Crescent CRM](https://github.com/90301/MarkdownResume/blob/master/Technologies/C_Sharp.md#crescent-crm)
 * Automation of 3D Printing Filament Manufacturing
 
 
