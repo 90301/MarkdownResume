@@ -5,9 +5,9 @@
 **If a Link is available, the section contains additional information.**
 
 # Work History
-## [Blue Chip AI - President](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
+## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-(Current)
-Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. 
+Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Primarially focused on proprietary trading.
 
 ## Sagitec Solutions - Software Engineer
 ### 2017-2018
