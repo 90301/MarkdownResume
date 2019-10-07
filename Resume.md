@@ -8,6 +8,9 @@
 
 
 # Work History
+## Duck Creek - Billing Software Engineer
+Develops, upgrades, and maintains high performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit tests and regression tests for functional coverage.
+
 ## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-(Current)
 Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Primarially focused on proprietary trading.
