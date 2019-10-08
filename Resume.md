@@ -70,7 +70,7 @@ Projects include:
 
 # Research Interests
 ## Energy Efficient Computing
-<img src="http://bluechipai.net/images/CompleteBluechip_Crop.png" width="756">
+<img src="https://user-images.githubusercontent.com/6025683/66421774-7a8f5e00-e9d6-11e9-9c96-e62fcacb66c5.jpg" width="756">
 Making the worlds most efficent computers allows us to perform more calculations per dollar. Current computers use about half of their energy on cooling. Thanks to the Cyberia Rack design (pictured above), we've reducing cooling costs to less then 1% of the total enegy used (A 98% reduction in energy used).
 For more information: http://bluechipai.net/datacenters.html
 
