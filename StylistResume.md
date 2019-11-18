@@ -3,7 +3,7 @@
 # Josh Benton
 ## 803-524-3937
 ## Josh.Benton.CE@gmail.com
-## Facebook: 
+## Facebook: [StyleConnectSC](https://www.facebook.com/Style.Connect.SC)
 ## Instagram: [StyleConnectSC](https://www.instagram.com/styleconnectsc/)
 
 # Work History
