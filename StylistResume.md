@@ -55,6 +55,9 @@ Projects include:
 
 
 # Education
+## Paul Mitchell, Columbia SC - Cosmetology 
+### 2019 - 2021
+
 ## University of South Carolina Columbia - BS Computer Engineering
 ### 2014-2017
 *	Recipient of Maxient innovation award for entrepreneurship.
