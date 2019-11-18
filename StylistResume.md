@@ -7,6 +7,7 @@
 ## Instagram: [StyleConnectSC](https://www.instagram.com/styleconnectsc/)
 
 [11 strand braid](https://user-images.githubusercontent.com/6025683/69099645-46717900-0a29-11ea-8919-5cdcccd087f5.jpg "11 Strand Braid")
+[11 strand](https://photos.google.com/photo/AF1QipNCgZryOPnVK7oWlGmW1t_8lc3SYg29KXuvUEnz "11 Strand Braid")
 
 # Work History
 ## Duck Creek - Billing Software Engineer
