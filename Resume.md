@@ -13,7 +13,7 @@
 Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit and regression tests for functional coverage.
 
 ## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
-### 2017-(Current)
+### 2017-2020
 Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Primarially focused on proprietary trading.
 
 ## Sagitec Solutions - Software Engineer
