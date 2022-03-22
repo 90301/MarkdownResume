@@ -1,7 +1,3 @@
-
-
-# **If a Link is available, the section contains additional information.**
-
 # Josh Benton
 ## 803-524-3937
 ## Josh.Benton.CE@gmail.com
