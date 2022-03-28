@@ -6,7 +6,7 @@
 # Work History
 ## Duck Creek - Billing Software Engineer
 ### 2019-(Current)
-Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit and regression tests for functional coverage. Works across the Duck Creek Platform including Author, Express, Regression Runner, and TAC.
+Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit and regression tests for functional coverage. Works across the Duck Creek Platform including Author, Express, Regression Runner, and TAC (Test Automation Center). CI/CD technology stack includes Azure, Team City, and Github.
 
 ## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-2020
