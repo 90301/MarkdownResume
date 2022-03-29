@@ -1,6 +1,6 @@
 # Josh Benton
-## 803-524-3937
-## Josh.Benton.CE@gmail.com
+* 803-524-3937
+* Josh.Benton.CE@gmail.com
 
 
 # Work History
@@ -101,5 +101,6 @@ For more information about specific experience, feel free to [reach out](https:/
 |    [J2EE / JEE](https://github.com/90301/MarkdownResume/blob/master/Technologies/Java.md)        |                  |                                |                                          |                                         |                                   |
 |    GIS | | | |
 |    [OpenCV](https://github.com/90301/MarkdownResume/blob/master/Technologies/CPP.md) | | | |
-
-Hexawise Certified
+# Certifications 
+* Hexawise Certified
+* Hacker Rank REST API Certified
