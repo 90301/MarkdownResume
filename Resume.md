@@ -10,7 +10,7 @@ Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) 
 
 ## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-2020
-Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Primarially focused on proprietary trading.
+Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Primarially focused on proprietary trading. Technology stack included Java, Rest Development, and MySQL. CI/CD used Ubuntu Server, Docker and Jenkins. 
 
 ## Sagitec Solutions - Software Engineer
 ### 2017-2018
