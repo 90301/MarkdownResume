@@ -6,11 +6,13 @@
 # Work History
 ## Duck Creek - Billing Software Engineer
 ### 2019-(Current)
-Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit and regression tests for functional coverage. Works across the Duck Creek Platform including Author, Express, Regression Runner, and TAC (Test Automation Center). CI/CD technology stack includes Azure, Team City, and Github.
+Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit and regression tests for functional coverage. Internal programming language is based on XML and uses XSLT. Works across the Duck Creek Platform including Author, Express, Regression Runner, and TAC (Test Automation Center). CI/CD technology stack includes Azure, Team City, and Github.
+
+Ran agile Hackathon teams every year with a win for employee favorite.
 
 ## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-2020
-Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Primarially focused on proprietary trading. Technology stack included Java, Rest Development, and MySQL. CI/CD used Ubuntu Server, Docker, and Jenkins. 
+Coordinates and oversees all development projects, directs the business team in day-to-day operations, and facilitates communication between team members. Ran an agile development team, delegating tasks and handling talent acquisition. Primarially focused on proprietary trading. Technology stack included Java, Rest Development, and MySQL. CI/CD used Ubuntu Server, Docker, and Jenkins. 
 
 ## Sagitec Solutions - Software Engineer
 ### 2017-2018
