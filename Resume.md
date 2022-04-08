@@ -8,7 +8,7 @@
 ### 2019-(Current)
 Develops, upgrades, and maintains high-performance C# and MSSQL (Microsoft SQL) code related to insurance billing systems. Develops unit and regression tests for functional coverage. Internal programming language is based on XML and uses XSLT. Works across the Duck Creek Platform including Author, Express, Regression Runner, and TAC (Test Automation Center). CI/CD technology stack includes Azure, Team City, and Github.
 
-Ran agile Hackathon teams every year with a win for employee favorite.
+Ran agile Hackathon teams every year including first place in the audience poll for simplifying regression test editing.
 
 ## [Blue Chip AI - President / Technical Lead](https://github.com/90301/MarkdownResume/blob/master/Positions/BlueChipAI.md)
 ### 2017-2020
